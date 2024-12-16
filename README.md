@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on the web frontend<br>👯 I want to collaborate on web front end<br>🤝 I’m looking for help with<br>🌱 I'm learning kotlin right now<br>💬 Ask me about web frontend<br>⚡ Fun fact
-
+🔭 I'm currently working on Android development
+👯 I want to collaborate on Android development
+🤝 I’m looking for help with advanced Android techniques
+🌱 I'm learning Kotlin right now
+💬 Ask me about Android development
+⚡ Fun fact: I love exploring new libraries and tools in Android!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onurgndz1905) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/onur-gunduz-4a9971268) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onurgndz1905) 
